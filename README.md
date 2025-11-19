@@ -2,6 +2,7 @@
 **彻底禁止普通玩家点燃下界传送门与末地传送门（仅 OP 豁免）**
 
 一个轻量级 `Paper/Spigot` 插件，已为 `Mohist` 调优，防止非 OP 玩家通过打火石/火焰弹点燃黑曜石或末地传送门框架，同时阻止火焰在黑曜石上蔓延导致意外生成传送门。
+
 A light `Paper/Spigot` plugin and specifically designed for `Mohist`, which aims to prevent nonOp player create Portals to other dimensions.
 
 ## 中文
