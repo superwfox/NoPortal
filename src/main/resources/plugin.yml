@@ -1,0 +1,4 @@
+name: NoPortal
+version: '8'
+main: sudark2.Sudark.noPortal.NoPortal
+api-version: '1.20'
