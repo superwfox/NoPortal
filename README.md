@@ -27,12 +27,10 @@ A light `Paper/Spigot` plugin and specifically designed for `Mohist`, which aims
 3. 重启或重载服务器
 4. 完成！无需任何配置文件
 
-### 源码地址
-完全开源，欢迎 Star & Fork：https://github.com/YourName/NoPortal （请替换为你的实际仓库链接）
 
 ### 兼容性
 - 支持 Paper / Spigot 1.16.5 - 1.21.x（推荐使用最新版 Paper）
-- Java 17+ 编译，充分利用记录、密封类等现代特性（当前代码已保持最大兼容性）
+- Java 21+ 编译，充分利用记录、密封类等现代特性（当前代码已保持最大兼容性）
 
 ---
 
@@ -58,10 +56,6 @@ A light `Paper/Spigot` plugin and specifically designed for `Mohist`, which aims
 3. Restart or reload the server.
 4. Done! No configuration files needed.
 
-### Source Code
-Fully open source: https://github.com/YourName/NoPortal (or your actual repo link)
-
 ---
 
-Made with ❤ by Sudark2  
-有问题欢迎提交 Issue 或加群反馈！
+Made with ❤ by Sudark 
